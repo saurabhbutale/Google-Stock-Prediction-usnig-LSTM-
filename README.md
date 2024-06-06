@@ -1,4 +1,4 @@
-# Bharat-Intern-DataScience_Project1
+#DATA SCIENCE PROJECT
 <div style="width: 90%; height: 100px; background-color: #ffffff; border: 3px solid #d62d20; text-align: center; line-height: 100px; color: #0057e7; font-size: 24px; font-weight: bold; border-radius:6px;">
     📉 Google Stock Prediction usnig LSTM 📈
 </div>
